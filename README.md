@@ -76,6 +76,7 @@
 
 - twitter: http://twitter.com/TheLarkInn
 - github: http://github.com/TheLarkInn
+- workshop: https://github.com/TheLarkInn/webpack-workshop-2018
 
 ## Mike Hartington - Rise above the Framework
 
