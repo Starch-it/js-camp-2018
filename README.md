@@ -83,7 +83,7 @@
 - twitter: http://twitter.com/mhartington
 - github: http://github.com/mhartington
 
-Michaela Lehr - WebXR: A New Dimension For The Web Writing Virtual and Augmented Reality ## Apps With Web Technology
+## Michaela Lehr - WebXR: A New Dimension For The Web Writing Virtual and Augmented Reality ## Apps With Web Technology
 
 - twitter: http://twitter.com/fischaelameer
 - github: http://github.com/Fischaela
