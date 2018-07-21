@@ -1,4 +1,10 @@
-# js-camp-2018
+# JSCamp 2018 - Barcelona
+
+https://jscamp.tech/
+
+https://twitter.com/jscamptech
+
+https://www.youtube.com/c/JavaScriptCamp
 
 ## Benedikt Meurer - A Tale of Types, Classes, and Maps
 
