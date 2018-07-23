@@ -10,6 +10,7 @@ https://www.youtube.com/c/JavaScriptCamp
 
 - twitter: http://twitter.com/bmeurer
 - github: http://github.com/bmeurer
+- slides: https://slidr.io/bmeurer/javascript-engines-a-tale-of-types-classes-and-maps#1
 
 ## Kyle Simpson - Keep Betting On JavaScript
 
@@ -93,6 +94,7 @@ https://www.youtube.com/c/JavaScriptCamp
 
 - twitter: http://twitter.com/TheLarkInn
 - github: http://github.com/TheLarkInn
+- frontend masters: https://frontendmasters.com/teachers/sean-larkin/
 - Webpack Academy: https://webpack.academy/
 - workshop: https://github.com/TheLarkInn/webpack-workshop-2018
 
