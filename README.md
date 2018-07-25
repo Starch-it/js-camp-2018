@@ -39,6 +39,7 @@ https://www.youtube.com/c/JavaScriptCamp
 
 - twitter: http://twitter.com/kammysliwiec
 - github: http://github.com/kamilmysliwiec
+- slides: https://speakerdeck.com/kamilmysliwiec/rethinking-enterprise-architectures-with-node-dot-js
 
 ## Steve Klabnik - The past, present, and future of the Web
 
@@ -102,12 +103,14 @@ https://www.youtube.com/c/JavaScriptCamp
 
 - twitter: http://twitter.com/mhartington
 - github: http://github.com/mhartington
+- slides: https://speakerdeck.com/mhartington/rise-above-the-framework-jscamp-2018
 
 ## Michaela Lehr - WebXR: A New Dimension For The Web Writing Virtual and Augmented Reality Apps With Web Technology
 
 - twitter: http://twitter.com/fischaelameer
 - github: http://github.com/Fischaela
 - video (from You Gotta Love Frontend): https://www.youtube.com/watch?v=g8D4X-M3ZwM
+- slides: https://www.slideshare.net/geildanke/webxr-a-new-dimension-for-the-web-writing-virtual-and-augmented-reality-apps-with-web-technology
 
 ## Hassan Djirdeh - Understanding client side routing with Vue.js
 
