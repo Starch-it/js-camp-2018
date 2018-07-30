@@ -51,6 +51,7 @@ https://www.youtube.com/c/JavaScriptCamp
 
 - twitter: http://twitter.com/AnujRNair
 - github: http://github.com/AnujRNair
+- slides: https://jscamp.tech/speakers/anuj-nair
 
 ## Martin Splitt - Semantic, Searchable Webapps with Angular
 
@@ -98,7 +99,7 @@ https://www.youtube.com/c/JavaScriptCamp
 - frontend masters: https://frontendmasters.com/teachers/sean-larkin/
 - Webpack Academy: https://webpack.academy/
 - workshop: https://github.com/TheLarkInn/webpack-workshop-2018
-
+- slides: https://docs.google.com/presentation/d/1nE-9fE5Cfe5X0IJUtx4Qt6is06j5v-3b8JB9A37OKcA/edit?usp=sharing
 ## Mike Hartington - Rise above the Framework
 
 - twitter: http://twitter.com/mhartington
