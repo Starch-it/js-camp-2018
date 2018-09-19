@@ -56,7 +56,7 @@ https://www.youtube.com/c/JavaScriptCamp
 ## Martin Splitt - Semantic, Searchable Webapps with Angular
 
 - twitter: http://twitter.com/g33konaut
-- github: http://github.com/g33konaut
+- github: http://github.com/AVGP
 
 ## Evan Schultz - Createing 'Vuetiful' Data-Driven User Interfaces
 
